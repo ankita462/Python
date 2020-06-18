@@ -1,3 +1,5 @@
+# Time Complexity = O(log n)
+
 def binarySearch(arr,l,r,x):
     if(r>=l):
         mid=int(l+(r-l)/2)
