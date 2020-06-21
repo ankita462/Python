@@ -1,5 +1,7 @@
 # Time complexity : O(n)
 # Auxiliary Space : O(1)
+# Split the array and add the first part to the end
+# There is a given an array and split it from a specified position, and move the first part of array add to the end.
 
 def gcd(a,b):
     while((a%b)>0):
